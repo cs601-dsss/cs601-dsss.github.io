@@ -1,0 +1,37 @@
+Relevant Conferences
+====================
+
+This is a list of conferences talking about building systems in general. We mostly
+focus on building scalable systems. If you find any interesting papers to discuss,
+please let me know:
+
+- General systems:
+    - SOSP
+    - OSDI
+    - Usenix ATC
+    - Eurosys
+    - FAST
+    - ASPLOS
+
+- Databases:
+    - SIGMOD
+    - VLDB
+
+- Networking:
+    - SIGCOMM
+    - NSDI
+
+- Architecture:
+    - ISCA
+    - MICRO
+    - HPCA
+
+- Programming Language:
+    - PLDI
+    - OOPSLA
+    - POPL
+
+- Security:
+    - Oakland
+    - Usenix Security
+    - CCS

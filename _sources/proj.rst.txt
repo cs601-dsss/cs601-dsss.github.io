@@ -1,0 +1,37 @@
+=============
+Final Project
+=============
+
+- **[Mar 16]: Project pre-proposal**
+    - Talk: 5 min (but no evaluation)
+    - *Slides: 2 + 5 pages PDF slides*
+        - Slide 1: Title & name page
+        - Slide 1: Your background and interests
+        - Slides 2-5: proposal
+        - ~45 seconds for each slide
+    - Find your teammate (if possible, team size should be less than three)
+
+- **[Mar 30]: Proposal**
+    - 10 min presentation + 5 min Q&A
+    - **Try to answer the following questions:**
+        - (motivation) What problems are you trying to tackle?
+        - (motivation) Why such problems matter?
+        - (approach) Any past research?
+        - (approach) What is your approach?
+        - (approach) Difference between your and past research?
+        - (plan/checklist) What is your plan/timeline given the course deadline?
+        - (evaluation) How can you demonstrate your approach works better as intended?
+
+    - During your presentation, classmates will evaluate the proposal and plan.
+
+- **[Jun 1]: Presentation Demo days**
+    - TBD
+
+
+Project ideas
+-------------
+
+- Students have freedom to choose work on their own problems
+    - Can be entirely something new.
+    - Might be already working on the current problem.
+    - Can work on problems of my choice.

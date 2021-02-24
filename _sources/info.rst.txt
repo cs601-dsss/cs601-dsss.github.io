@@ -1,0 +1,41 @@
+===================
+General Information
+===================
+
+The course will cover the state-of-the-art techniques and principles for
+designing single node scalable systems software. The course will cover
+lectures, paper discussion, and a semester-long project focusing on
+scalability. Note that some of the topics are tentative and we can also
+cover topics that students want to explore or learn about.
+
+
+------------
+Prerequisite
+------------
+- CS-522: Principles of Computes Systems (POCS)
+
+--------
+Meetings
+--------
+
+- When: Friday 14:15-16:00
+- Where: https://epfl.zoom.us/j/87272674753?pwd=QVlibEk3QXUxY0NrWWhMdldCZ2VRQT09
+
+--------------
+Grading Policy
+--------------
+
+- Assignments (10%): Answer/ask questions before each lecture.
+- Class participation (10%)
+- Project (80%)
+    - Proposal presentation (15%, 30.03.2021)
+    - Demo & presentation (25%, 01.06.2021)
+    - Write-up (40%, 01.06.2021)
+
+
+-------------
+Meeting hours
+-------------
+
+- Meeting hours: Tues 16:00-17:00, Sanidhya Kashyap
+- Feel free to send an email to make an appointment
