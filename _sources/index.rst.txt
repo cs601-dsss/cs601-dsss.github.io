@@ -10,6 +10,7 @@ CS-601: Topics in Designing Scalable Systems Software
    cal
    conf
    proj
+   paper
 
 ----
 News

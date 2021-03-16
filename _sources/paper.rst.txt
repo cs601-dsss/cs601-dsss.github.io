@@ -1,0 +1,14 @@
+==============
+Paper Reading
+==============
+
+
+Please read all papers before the class and write **one page document for each paper**.
+
+- One page document details:
+    - Summary
+    - Problem they are trying to tackle
+    - Their proposed solution
+    - Pros and cons of their approach (3-5 points)
+    - Confusing part of their work
+    - Any posible future diretions
